@@ -1,5 +1,5 @@
 # PROBLEM SOLVING AND PROGRAMMING LANGUAGES (CSC 700) ASSIGNMENT
-A documentation of all programmimplementations in the course of the class.
+A compilation of all programs Implimented in the course.
 
 ### Imlementation of If Statement
 Below is a program that calcuates the premium due to a driver with respect to the driver's age availability of an outstanding ticket.
